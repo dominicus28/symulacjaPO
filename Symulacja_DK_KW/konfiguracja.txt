@@ -1,0 +1,1 @@
+[Liczba wilkow: 4, Liczba jeleni: 3, Liczba saren: 3, Liczba dzikow: 2, Liczba traw: 2, Liczba zoledzi: 1]
